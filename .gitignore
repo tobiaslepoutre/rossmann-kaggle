@@ -12,3 +12,7 @@ __pycache__/
 # Mac / VS Code
 .DS_Store
 .vscode/
+
+*.html
+*.css
+*.js
