@@ -1,5 +1,6 @@
 # Données Kaggle (jamais push)
 data/
+docs/
 
 # Python env & caches
 .venv/
